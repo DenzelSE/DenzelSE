@@ -1,6 +1,6 @@
 ### Aspiring Software DevOps Engineer 
 
-#### 👋 Hi, I’m @DenzelSE
+#### 👋 Hi, I’m DenzelSE
 
 My full name is Denzel Selokela, I am a software engineering student at Wethinkcode_ in Johannesburg. 
 I want to be a DevOps engineer someday. 
