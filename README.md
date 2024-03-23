@@ -7,8 +7,8 @@ I want to be a DevOps engineer someday.
 - 👀 I’m interested in DevOps, Java developer and Machine learning.
 - 🌱 I’m currently learning System development at Wethinkcode_
 - 💞️ I’m looking to collaborate on projects that will help grow and align with my goals
-- 🔭 I’m currently working on this page.
-- ⚡ Fun fact: I am really a nice friendly guy, I'm quiet (an introvert) 
+- 🔭 I’m currently working on building my github
+- ⚡ Fun fact: I am a really nice friendly guy, I'm just quiet (an introvert) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenzelSE&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenzelSE&layout=donut&theme=transparent)
 
