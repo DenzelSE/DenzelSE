@@ -1,4 +1,4 @@
-### Aspiring Software DevOps Engineer 
+### Software Developer 
 
 #### 👋 Hi, I’m DenzelSE
 
