@@ -2,10 +2,10 @@
 
 #### 👋 Hi, I’m DenzelSE
 
-My full name is Denzel Selokela, I am a software engineering student at Wethinkcode_ in Johannesburg. 
-I want to be a DevOps Engineer and Smart Contract Engineer in Web3. 
+My full name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
+I want to be a Backend/DevOps Engineer and Smart Contract Engineer. 
 - 👀 I’m interested in DevOps, Blockchain and Artificial Intelligence particularly in Finances(Financial markets/centralized and decentralized Finances).
-- 🌱 I’m currently learning System development at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
+- 🌱 I just completed System development program at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
 - 💞️ I’m looking to collaborate on projects that will help grow and align with my goals
 - 🔭 I’m currently working on my journey as developer and refining skills with a every project.
 - ⚡ Fun fact: I am a really nice friendly guy, I'm just quiet (an introvert) 
