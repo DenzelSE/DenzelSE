@@ -1,14 +1,17 @@
 ### Software Developer 
 
-#### 👋 Hi, I’m DenzelSE
+#### 👋 Hi, I’m DenzelSE(Software Enginner)
 
-My full name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
+My name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
 I want to be a Backend/DevOps Engineer and Smart Contract Engineer. 
 - 👀 I’m interested in DevOps, Blockchain and Artificial Intelligence particularly in Finances(Financial markets/centralized and decentralized Finances).
 - 🌱 I just completed System development program at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
 - 💞️ I’m looking to collaborate on projects that will help grow and align with my goals
 - 🔭 I’m currently working on my journey as developer and refining skills with a every project.
-- ⚡ Fun fact: I am a really nice friendly guy, I'm just quiet (an introvert) 
+- ⚡ Fun fact: I am a really nice friendly guy, I'm just quiet (an introvert)
+
+` My favorite qoute : "Surpass your limits, right here, right now" 
+~ Yami Sukehiro`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenzelSE&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenzelSE&layout=donut&theme=transparent)
 
