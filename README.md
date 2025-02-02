@@ -1,6 +1,6 @@
 ### Software Developer 
 
-#### 👋 Hi, I’m DenzelSE(Software Enginner)
+#### 👋 Hi, I’m DenzelSE(Software Engineer)
 
 My name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
 I want to be a Backend/DevOps Engineer and Smart Contract Engineer. 
