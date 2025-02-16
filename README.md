@@ -3,7 +3,7 @@
 #### 👋 Hi, I’m DenzelSE(Software Engineer)
 
 My name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
-I want to be a Backend/DevOps Engineer and Smart Contract Engineer. 
+My goals are to be a Backend/DevOps Engineer and Smart Contract Engineer. 
 - 👀 I’m interested in DevOps, Blockchain and Artificial Intelligence particularly in Finances(Financial markets/centralized and decentralized Finances).
 - 🌱 I just completed System development program at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
 - 💞️ I’m looking to collaborate on projects that will help grow and align with my goals
