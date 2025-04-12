@@ -2,7 +2,7 @@
 
 #### 👋 Hi, I’m DenzelSE(Software Engineer)
 
-My name is Denzel Selokela, I am a software engineering almuni at Wethinkcode_ in Johannesburg. 
+My name is Denzel Selokela, I am a software developer in Johannesburg. 
 My goals are to be a Backend/DevOps Engineer and Smart Contract Engineer. 
 - 👀 I’m interested in DevOps, Blockchain and Artificial Intelligence particularly in Finances(Financial markets/centralized and decentralized Finances).
 - 🌱 I just completed System development program at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
