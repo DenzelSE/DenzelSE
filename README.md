@@ -5,7 +5,7 @@
 My name is Denzel Selokela, I am a software developer in Johannesburg. 
 My goals are to be a Backend/DevOps Engineer and Smart Contract Engineer. 
 - 👀 I’m interested in DevOps, Blockchain and Artificial Intelligence particularly in Finances(Financial markets/centralized and decentralized Finances).
-- 🌱 I just completed System development program at Wethinkcode_ and blockchain in Africa's Blockchain Club(ABC).
+- 🌱 I just completed System development program at Wethinkcode_ and Blockchain at Africa's Blockchain Club(ABC).
 - 💞️ I’m looking to collaborate on projects that will help grow and align with my goals
 - 🔭 I’m currently working on my journey as developer and refining skills with a every project.
 - ⚡ Fun fact: I am a really nice friendly guy, I'm just quiet (an introvert)
